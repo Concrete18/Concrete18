@@ -1,6 +1,17 @@
 # Coding Resume
 Michael Ericson
 
+## Coding Languages
+
+### Python
+
+I fully started learning Python in March 2020. It has been my major focus and is used in the majorirty of my public and private projects.
+
+### AHK
+
+I started learning AHK for personal use around 2015.
+I began learning AHK for speeding up common tasks that were often completed in a fraction of the time thanks to AHK.
+
 ## Projects
 
 * [Auto Folder Cleaner](https://github.com/Concrete18/Auto-Folder-Cleaner)
