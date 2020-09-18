@@ -1,8 +1,11 @@
 # Coding Resume
 
 Michael Ericson
+
 Michael.Ericson19@gmail.com
+
 (706) 577-4708
+
 www.linkedin.com/in/MichaelEricson1
 
 ## Coding Languages
