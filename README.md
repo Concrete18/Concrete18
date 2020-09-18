@@ -1,8 +1,9 @@
 # Coding Resume
 
 Michael Ericson
-
----
+Michael.Ericson19@gmail.com
+(706) 577-4708
+www.linkedin.com/in/MichaelEricson1
 
 ## Coding Languages
 
@@ -14,8 +15,6 @@ I fully started learning Python in March 2020. It has been my major focus and is
 
 I started learning AHK for personal use around 2015.
 I began learning AHK for speeding up common tasks that were often completed in a fraction of the time thanks to AHK.
-
----
 
 ## Projects
 
