@@ -31,15 +31,16 @@ This is a script that runs in the background setting wallpapers based on the tim
 
 ### [Virtual Assistant](https://github.com/Concrete18/Virtual-Assistant)
 
-ph
+This is my virtual text-based assistant. I made it in order to bypass the need for an interface for many smaller functions.
+
 
 ### [Game Save Manager](https://github.com/Concrete18/Game-Save-Manager)
 
-ph
+Tkinter Interface for running through an SQLite Database that allows backing up and restoring game saves easily.
 
 ### [Home Control Interface](https://github.com/Concrete18/Home-Control-Interface)
 
-ph
+Control interface that allows control of my lights, smart plugs, and PC audio default settings along with many other features.
 
 ### [Standing Reminder](https://github.com/Concrete18/Standing-Reminder)
 
@@ -55,4 +56,4 @@ Validates Entered Credit cards and tells you the provider of the card if it is D
 
 ### [Experimentation](https://github.com/Concrete18/Experimentation)
 
-ph
+I use this for smaller experiments that do not warrant an entire repo of their own.
