@@ -25,14 +25,9 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 This script searches a watched directory in order to move files based on their filetypes and keywords. It works by using For Loops to go through files in the watched directory. It checks for matches in a file type and keyword Dictionaries.
 
-### [Weather Wallpaper Changer](https://github.com/Concrete18/Weather-Wallpaper-Changer)
-
-This is a script that runs in the background setting wallpapers based on the time of day and weather forecast every 20 minutes. It uses Open Weather to check the sunset and sun rise times and weather. I convert the sunset and sunrise times using code to determine if it is currently sunset or sunrise, 20 minutes each, or if it is night or day.
-
 ### [Virtual Assistant](https://github.com/Concrete18/Virtual-Assistant)
 
 This is my virtual text-based assistant. I made it in order to bypass the need for an interface for many smaller functions.
-
 
 ### [Game Save Manager](https://github.com/Concrete18/Game-Save-Manager)
 
@@ -41,6 +36,10 @@ Tkinter Interface for running through an SQLite Database that allows backing up 
 ### [Home Control Interface](https://github.com/Concrete18/Home-Control-Interface)
 
 Control interface that allows control of my lights, smart plugs, and PC audio default settings along with many other features.
+
+### [Weather Wallpaper Changer](https://github.com/Concrete18/Weather-Wallpaper-Changer)
+
+This is a script that runs in the background setting wallpapers based on the time of day and weather forecast every 20 minutes. It uses Open Weather to check the sunset and sun rise times and weather. I convert the sunset and sunrise times using code to determine if it is currently sunset or sunrise, 20 minutes each, or if it is night or day.
 
 ### [Standing Reminder](https://github.com/Concrete18/Standing-Reminder)
 
