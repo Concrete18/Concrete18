@@ -47,7 +47,7 @@ This app allows you to set a reminder to stop using your computer after a config
 
 ### [Timed Sleep and Shutdown](https://github.com/Concrete18/Timed-Shutdown-Sleep)
 
-Set a shutdown or sleep to a specific number of minutes away.
+Set timer to shutdown or sleep after a specific minute timer expires.
 
 ### [Credit Card Validator](https://github.com/Concrete18/Credit-Card-Validator)
 
