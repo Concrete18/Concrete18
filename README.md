@@ -25,6 +25,10 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 This script searches a watched directory in order to move files based on their filetypes and keywords. It works by using For Loops to go through files in the watched directory. It checks for matches in a file type and keyword Dictionaries.
 
+### [Secreit Bulk Image Loop](https://github.com/kroman4/Secreit_ImageLoop)
+
+I contributed to this repo with kroman4. It is script for allowing her to quickly run the cell stage identification code in bulk. I only wrote the code that is loops through images and exports into a .csv.
+
 ### [Virtual Assistant](https://github.com/Concrete18/Virtual-Assistant)
 
 This is my virtual text-based assistant. I made it in order to bypass the need for an interface for many smaller functions.
