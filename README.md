@@ -1,48 +1,50 @@
 ![I am Michael Ericson](https://raw.githubusercontent.com/Concrete18/Concrete18/master/header.png)
 
-| Email | Michael.Ericson19@gmail.com |
-| :---: | :---: |
-| linkedin | www.linkedin.com/in/MichaelEricson1 |
-| Cell | (706) 577-4708 |
+- <Michael.Ericson19@gmail.com>
+- [linkedin](www.linkedin.com/in/MichaelEricson1)
+- (706) 577-4708
+
 
 # About Me
 
 I started 2019 and made massive progress in 2020. I started Python although AHK is what first got me into coding. I have since learned full stack JavaScript.
 
+---
+
 <p>
-<!-- languages -->
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-<!-- Frameworks -->
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> -->
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
-<!-- cloud -->
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<!-- os -->
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<!-- ide -->
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<!-- misc -->
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-<img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
-<img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
+    <!-- languages -->
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+    <!-- Frameworks -->
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+    <!-- cloud -->
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <!-- os -->
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <!-- ide -->
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <!-- misc -->
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+    <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 <p/>
 
 ## Coding Languages
@@ -62,6 +64,8 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concrete18" />
 
+---
+
 ## Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=clickr)](https://github.com/Concrete18/clickr)
@@ -76,31 +80,15 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Home-Control-Interface)](https://github.com/Concrete18/Home-Control-Interface)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Home-Control-Interface)](https://github.com/Concrete18/Home-Control-Interface)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Weather-Wallpaper-Changer)](https://github.com/Concrete18/Weather-Wallpaper-Changer)
 
-### [Weather Wallpaper Changer](https://github.com/Concrete18/Weather-Wallpaper-Changer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Standing-Reminder)](https://github.com/Concrete18/Standing-Reminder)
 
-This is a script that runs in the background setting wallpapers based on the time of day and weather forecast every 20 minutes. It uses Open Weather to check the sunset and sun rise times and weather. I convert the sunset and sunrise times using code to determine if it is currently sunset or sunrise, 20 minutes each, or if it is night or day.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Timed-Shutdown-Sleep)](https://github.com/Concrete18/Timed-Shutdown-Sleep)
 
-### [Standing Reminder](https://github.com/Concrete18/Standing-Reminder)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Credit-Card-Validator)](https://github.com/Concrete18/Credit-Card-Validator)
 
-This app allows you to set a reminder to stop using your computer after a configurable time period. It is intelligent enough to detect inactivity after the reminder has gone off allowing you to simply walk away for your chosen time. It will also reset the timer early if it detects inactivity past a configurable threshold. The timer will also reset upon detecting a time gap in runs due to the computer going to sleep and then waking up a long enough time later.
-
-### [Timed Sleep and Shutdown](https://github.com/Concrete18/Timed-Shutdown-Sleep)
-
-Set timer to shutdown or sleep after a specific minute timer expires.
-
-### [Secreit Bulk Image Loop](https://github.com/kroman4/Secreit_ImageLoop)
-
-I contributed to this repo with kroman4. It is script for allowing her to quickly run the cell stage identification code in bulk. I only wrote the code that is loops through images and exports into a .csv.
-
-### [Credit Card Validator](https://github.com/Concrete18/Credit-Card-Validator)
-
-Validates Entered Credit cards and tells you the provider of the card if it is Discover, Visa, MasterCard and American Express.
-
-### [Experimentation](https://github.com/Concrete18/Experimentation)
-
-I use this for smaller experiments that do not warrant an entire repo of their own.
+---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Concrete18" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Concrete18" />
