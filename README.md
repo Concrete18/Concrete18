@@ -2,8 +2,6 @@
 
 - <Michael.Ericson19@gmail.com>
 - [linkedin](www.linkedin.com/in/MichaelEricson1)
-- (706) 577-4708
-
 
 # About Me
 
