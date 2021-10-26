@@ -1,6 +1,4 @@
-# Coding Resume
-
-Michael Ericson
+# Michael Ericson
 
 Michael.Ericson19@gmail.com
 
@@ -9,6 +7,10 @@ Michael.Ericson19@gmail.com
 www.linkedin.com/in/MichaelEricson1
 
 ## Coding Languages
+
+### Full Stack JavaScript
+
+I am working my way through the online App Academy Coding Bootcamp. I have created a solo and group full stack js project with deadlines and standups for each.
 
 ### Python
 
@@ -21,6 +23,18 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 ## Projects
 
+### [clickr](https://github.com/Concrete18/clickr)
+
+Flickr clone made solo with full stack Node.js with React/Redux.
+
+### [Good Games](https://github.com/gmiddle/group1_project_good-games)
+
+Good Reads variation made in a team of 4 with full stack Node.js.
+
+### [Game Save Manager](https://github.com/Concrete18/Game-Save-Manager)
+
+Tkinter Interface for running through an SQLite Database that allows backing up and restoring game saves easily.
+
 ### [Auto Folder Cleaner](https://github.com/Concrete18/Auto-Folder-Cleaner)
 
 This script searches a watched directory in order to move files based on their filetypes and keywords. It works by using For Loops to go through files in the watched directory. It checks for matches in a file type and keyword Dictionaries.
@@ -32,10 +46,6 @@ I contributed to this repo with kroman4. It is script for allowing her to quickl
 ### [Virtual Assistant](https://github.com/Concrete18/Virtual-Assistant)
 
 This is my virtual text-based assistant. I made it in order to bypass the need for an interface for many smaller functions.
-
-### [Game Save Manager](https://github.com/Concrete18/Game-Save-Manager)
-
-Tkinter Interface for running through an SQLite Database that allows backing up and restoring game saves easily.
 
 ### [Home Control Interface](https://github.com/Concrete18/Home-Control-Interface)
 
