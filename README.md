@@ -6,7 +6,18 @@ Michael.Ericson19@gmail.com
 
 www.linkedin.com/in/MichaelEricson1
 
+## About Me
+
+I started 2019 and made massive progress in 2020. I started Python although AHK is what first got me into coding. I have since learned full stack JavaScript.
+
 ## Coding Languages
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 ### Full Stack JavaScript
 
@@ -39,10 +50,6 @@ Tkinter Interface for running through an SQLite Database that allows backing up 
 
 This script searches a watched directory in order to move files based on their filetypes and keywords. It works by using For Loops to go through files in the watched directory. It checks for matches in a file type and keyword Dictionaries.
 
-### [Secreit Bulk Image Loop](https://github.com/kroman4/Secreit_ImageLoop)
-
-I contributed to this repo with kroman4. It is script for allowing her to quickly run the cell stage identification code in bulk. I only wrote the code that is loops through images and exports into a .csv.
-
 ### [Virtual Assistant](https://github.com/Concrete18/Virtual-Assistant)
 
 This is my virtual text-based assistant. I made it in order to bypass the need for an interface for many smaller functions.
@@ -62,6 +69,10 @@ This app allows you to set a reminder to stop using your computer after a config
 ### [Timed Sleep and Shutdown](https://github.com/Concrete18/Timed-Shutdown-Sleep)
 
 Set timer to shutdown or sleep after a specific minute timer expires.
+
+### [Secreit Bulk Image Loop](https://github.com/kroman4/Secreit_ImageLoop)
+
+I contributed to this repo with kroman4. It is script for allowing her to quickly run the cell stage identification code in bulk. I only wrote the code that is loops through images and exports into a .csv.
 
 ### [Credit Card Validator](https://github.com/Concrete18/Credit-Card-Validator)
 
