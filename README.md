@@ -1,11 +1,11 @@
 ![I am Michael Ericson](https://raw.githubusercontent.com/Concrete18/Concrete18/master/header.png)
 
 - <Michael.Ericson19@gmail.com>
-- [linkedin](https://www.linkedin.com/in/michaelericson1/)
+- [Linkedin](https://www.linkedin.com/in/michaelericson1/)
 
 # About Me
 
-I started programming in 2019 and made massive progress in 2020. I started with Python have since learned full stack JavaScript.
+I started programming in 2019 and made massive progress in 2020. I started with Python and have since learned full stack JavaScript.
 
 ---
 
