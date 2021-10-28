@@ -66,7 +66,7 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=clickr)](https://github.com/Concrete18/clickr)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gmiddle&repo=group1_project_good-games)](https://github.com/Concrete18/group1_project_good-games)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Good-Games-1-week-Group-Project)](https://github.com/Concrete18/Good-Games-1-week-Group-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Game-Save-Manager)](https://github.com/Concrete18/Game-Save-Manager)
 
@@ -81,8 +81,6 @@ I began learning AHK for speeding up common tasks that were often completed in a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Standing-Reminder)](https://github.com/Concrete18/Standing-Reminder)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Timed-Shutdown-Sleep)](https://github.com/Concrete18/Timed-Shutdown-Sleep)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Credit-Card-Validator)](https://github.com/Concrete18/Credit-Card-Validator)
 
 ---
 
