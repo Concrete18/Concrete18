@@ -1,7 +1,9 @@
 ![I am Michael Ericson](https://raw.githubusercontent.com/Concrete18/Concrete18/master/header.png)
 
-- <Michael.Ericson19@gmail.com>
-- [Linkedin](https://www.linkedin.com/in/michaelericson1/)
+<!-- - <Michael.Ericson19@gmail.com> -->
+
+[![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Michael.Ericson19@gmail.com)
+[![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelericson1/)
 
 # About Me
 
@@ -73,7 +75,7 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Auto-Folder-Cleaner)](https://github.com/Concrete18/Auto-Folder-Cleaner)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Auto-Folder-Cleaner)](https://github.com/Concrete18/Config-Auto-Backup)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Config-Auto-Backup)](https://github.com/Concrete18/Config-Auto-Backup)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Virtual-Assistant)](https://github.com/Concrete18/Virtual-Assistant)
 
