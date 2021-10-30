@@ -1,4 +1,4 @@
-![I am Michael Ericson](https://raw.githubusercontent.com/Concrete18/Concrete18/master/header.png)
+![I am Michael Ericson](https://raw.githubusercontent.com/Concrete18/Concrete18/master/header2.png)
 
 <!-- - <Michael.Ericson19@gmail.com> -->
 
