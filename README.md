@@ -1,8 +1,8 @@
-![I am Michael Ericson](mailto:https://raw.githubusercontent.com/Concrete18/Concrete18/master/header.png)
+![I am Michael Ericson](https://raw.githubusercontent.com/Concrete18/Concrete18/master/header.png)
 
 <!-- - <Michael.Ericson19@gmail.com> -->
 
-[![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Michael.Ericson19@gmail.com)
+[![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael.Ericson19@gmail.com)
 [![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelericson1/)
 
 # About Me
