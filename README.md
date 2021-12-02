@@ -52,6 +52,7 @@ I started programming in 2019 and made massive progress in 2020. I started with 
 
 I am working my way through the online App Academy Coding Bootcamp. I have created a solo and group full stack js project with deadlines and standups for each.
 `
+
 ### Python
 
 I fully started learning Python in March 2020. It has been my major focus and is used in the majority of my public and private projects.
