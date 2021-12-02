@@ -4,7 +4,7 @@
 
 [![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael.Ericson19@gmail.com)
 [![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelericson1/)
-
+<img src='https://komarev.com/ghpvc/?username=Concrete18&color=blueviolet' alt='profile view counter' title='profile view counter'>
 # About Me
 
 I started programming in 2019 and made massive progress in 2020. I started with Python and have since learned full stack JavaScript.
