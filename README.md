@@ -68,9 +68,11 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Feedly-Clone)](https://github.com/Concrete18/Feedly-Clone)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=flow-state-15&repo=discord_clone_2)](https://github.com/flow-state-15/discord_clone_2)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Good-Games-1-week-Group-Project)](https://github.com/Concrete18/Good-Games-1-week-Group-Project)
 
@@ -83,12 +85,6 @@ I began learning AHK for speeding up common tasks that were often completed in a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Virtual-Assistant)](https://github.com/Concrete18/Virtual-Assistant)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Home-Control-Interface)](https://github.com/Concrete18/Home-Control-Interface)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Weather-Wallpaper-Changer)](https://github.com/Concrete18/Weather-Wallpaper-Changer)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Standing-Reminder)](https://github.com/Concrete18/Standing-Reminder)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Timed-Shutdown-Sleep)](https://github.com/Concrete18/Timed-Shutdown-Sleep)
 
 ---
 
