@@ -1,13 +1,13 @@
 ![I am Michael Ericson](https://raw.githubusercontent.com/Concrete18/Concrete18/master/header2.png)
 
-<!-- - <Michael.Ericson19@gmail.com> -->
-
 [![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael.Ericson19@gmail.com)
 [![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelericson1/)
+
 <img src='https://komarev.com/ghpvc/?username=Concrete18&color=blueviolet' alt='profile view counter' title='profile view counter'>
+
 # About Me
 
-I started programming in 2019 and made massive progress in 2020. I started with Python and have since learned full stack JavaScript.
+My interest is in computer science, programming, Linux, and Windows. I first got interested in programming from playing some puzzle games created by Zachtronics. I decided to teach myself Python early into 2020 and then began my journey into App Academy in mid 2021 where I learned full stack JavaScript.
 
 ---
 

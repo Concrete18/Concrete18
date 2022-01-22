@@ -57,17 +57,15 @@ def create_project_buttons(username, projects, format='Markdown') -> None:
 
 if __name__ == '__main__':
     projects_dict = {
-        "Clickr-clone-of-Flickr": "Concrete18",
+        "Feedly-Clone": "Concrete18",
         "discord_clone_2": "flow-state-15",
+        "Clickr-clone-of-Flickr": "Concrete18",
         "Good-Games-1-week-Group-Project": "Concrete18",
         "Game-Save-Manager": "Concrete18",
         "Auto-Folder-Cleaner": "Concrete18",
         "Config-Auto-Backup": "Concrete18",
         "Virtual-Assistant": "Concrete18",
-        "Home-Control-Interface": "Concrete18",
-        "Weather-Wallpaper-Changer": "Concrete18",
-        "Standing-Reminder": "Concrete18",
-        "Timed-Shutdown-Sleep": "Concrete18"
+        "Home-Control-Interface": "Concrete18"
     }
 
     create_project_buttons(username='Concrete18', projects=projects_dict, format='Markdown')
