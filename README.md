@@ -48,7 +48,7 @@ My interest is in computer science, programming, Linux, and Windows. I first got
 
 ## Coding Languages
 
-### Full Stack JavaScript
+### JavaScript (Full Stack)
 
 I am working my way through the online App Academy Coding Bootcamp. I have created a solo and group full stack js project with deadlines and standups for each.
 `
