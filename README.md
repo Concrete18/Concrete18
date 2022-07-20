@@ -26,6 +26,7 @@ My interest is in computer science, programming, Linux, and Windows. I first got
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> -->
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> -->
@@ -75,6 +76,8 @@ I began learning AHK for speeding up common tasks that were often completed in a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Good-Games-1-week-Group-Project)](https://github.com/Concrete18/Good-Games-1-week-Group-Project)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Game-Save-Manager)](https://github.com/Concrete18/Game-Save-Manager)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Game-Library-Tracker)](https://github.com/Concrete18/Game-Library-Tracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Auto-Folder-Cleaner)](https://github.com/Concrete18/Auto-Folder-Cleaner)
 
