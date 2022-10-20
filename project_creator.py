@@ -64,13 +64,13 @@ if __name__ == "__main__":
         "Feedly-Clone": "Concrete18",
         # "discord_clone_2": "flow-state-15",
         "Clickr-clone-of-Flickr": "Concrete18",
-        "Good-Games-1-week-Group-Project": "Concrete18",
+        # "Good-Games-1-week-Group-Project": "Concrete18",
         "easierexcel": "Concrete18",
         "Game-Save-Manager": "Concrete18",
         "Game-Library-Tracker": "Concrete18",
         "Auto-Folder-Cleaner": "Concrete18",
-        "Config-Auto-Backup": "Concrete18",
-        "Virtual-Assistant": "Concrete18",
+        # "Config-Auto-Backup": "Concrete18",
+        # "Virtual-Assistant": "Concrete18",
         "Home-Control-Interface": "Concrete18",
     }
 

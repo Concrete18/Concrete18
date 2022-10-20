@@ -3,11 +3,21 @@
 [![Readme Card](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Michael.Ericson19@gmail.com)
 [![Readme Card](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelericson1/)
 
-<img src='https://komarev.com/ghpvc/?username=Concrete18&color=blueviolet' alt='profile view counter' title='profile view counter'>
+<img src='https://komarev.com/ghpvc/?username=Concrete18&color=blue' alt='profile view counter' title='profile view counter'>
 
 # About Me
 
 My interest is in computer science, programming, Linux, and Windows. I first got interested in programming from playing some puzzle games created by Zachtronics. I decided to teach myself Python early into 2020 and then began my journey into App Academy in mid 2021 where I learned full stack JavaScript.
+
+<!-- TODO edit colors -->
+<p align="center">
+<a href="https://git.io/streak-stats">
+  <img height="150px" width="405px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Concrete18&hide_border=true&fire=FF5A5F&stroke=FF5A5F&background=00000000&ring=E5DFFF&sideNums=FF5A5F&sideLabels=C197BA&currStreakLabel=ECCFF5&currStreakNum=ECCFF5&dates=FCE544" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concrete18&langs_count=6&layout=compact&title_color=FF5A5F&text_color=E5DFFF&bg_color=00000000&hide_border=true&hide_title=true" />
+</a>
+</p>
 
 ---
 
@@ -16,6 +26,7 @@ My interest is in computer science, programming, Linux, and Windows. I first got
     <!-- languages -->
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
@@ -63,33 +74,37 @@ I fully started learning Python in March 2020. It has been my major focus and is
 I started learning AHK for personal use around 2015.
 I began learning AHK for speeding up common tasks that were often completed in a fraction of the time thanks to AHK.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concrete18" />
-
 ---
 
 ## Projects
+
+<p align="center">
+<div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Feedly-Clone)](https://github.com/Concrete18/Feedly-Clone)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Good-Games-1-week-Group-Project)](https://github.com/Concrete18/Good-Games-1-week-Group-Project)
+</div>
+
+<div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=easierexcel)](https://github.com/Concrete18/easierexcel)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Game-Save-Manager)](https://github.com/Concrete18/Game-Save-Manager)
 
+</div>
+<div>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Game-Library-Tracker)](https://github.com/Concrete18/Game-Library-Tracker)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Auto-Folder-Cleaner)](https://github.com/Concrete18/Auto-Folder-Cleaner)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Config-Auto-Backup)](https://github.com/Concrete18/Config-Auto-Backup)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Virtual-Assistant)](https://github.com/Concrete18/Virtual-Assistant)
+</div>
+<div>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Home-Control-Interface)](https://github.com/Concrete18/Home-Control-Interface)
 
----
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Concrete18" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Concrete18" />
+</p>
