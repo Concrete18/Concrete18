@@ -7,7 +7,7 @@
 
 # About Me
 
-My interest is in computer science, programming, Linux, and Windows. I first got interested in programming from playing some puzzle games created by Zachtronics. I decided to teach myself Python early into 2020 and then began my journey into App Academy in mid 2021 where I learned full stack JavaScript.
+I am very interested in computer science, programming, Linux, and Windows. I first got interested in programming from playing some puzzle games created by Zachtronics. I decided to teach myself Python early into 2020 and then began my journey into App Academy in mid 2021 where I learned full stack JavaScript.
 
 <!-- TODO edit colors -->
 <p align="center">
@@ -18,8 +18,6 @@ My interest is in computer science, programming, Linux, and Windows. I first got
   <img height ="150px" width="405px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Concrete18&langs_count=6&layout=compact&title_color=FF5A5F&text_color=E5DFFF&bg_color=00000000&hide_border=true&hide_title=true" />
 </a>
 </p>
-
----
 
 <p>
     <!-- Badges Link https://github.com/alexandresanlim/Badges4-README.md-Profile -->
@@ -58,16 +56,21 @@ My interest is in computer science, programming, Linux, and Windows. I first got
     <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
 <p/>
 
+---
+
 ## Coding Languages
 
 ### JavaScript (Full Stack)
 
 I am working my way through the online App Academy Coding Bootcamp. I have created a solo and group full stack js project with deadlines and standups for each.
-`
 
 ### Python
 
 I fully started learning Python in March 2020. It has been my major focus and is used in the majority of my public and private projects.
+
+### Rust
+
+I am currently learning Rust and have learned useful ways to speed up Python with it.
 
 ### AHK
 
@@ -76,35 +79,13 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 ---
 
-## Projects
+## Top Projects
 
-<p align="center">
-<div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Feedly-Clone)](https://github.com/Concrete18/Feedly-Clone)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Clickr-clone-of-Flickr)](https://github.com/Concrete18/Clickr-clone-of-Flickr)
-
-</div>
-
-<div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=easierexcel)](https://github.com/Concrete18/easierexcel)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Game-Save-Manager)](https://github.com/Concrete18/Game-Save-Manager)
-
-</div>
-<div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Game-Library-Tracker)](https://github.com/Concrete18/Game-Library-Tracker)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Auto-Folder-Cleaner)](https://github.com/Concrete18/Auto-Folder-Cleaner)
-
-</div>
-<div>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Concrete18&repo=Home-Control-Interface)](https://github.com/Concrete18/Home-Control-Interface)
-
-</div>
-
-</p>
+| Name                 | Description                                                                                            | Github Link                                                         | Live Link                                         |
+| -------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- | ------------------------------------------------- |
+| Feedler              | Clone of Feedly                                                                                        | [Github Repo](https://github.com/Concrete18/Feedly-Clone)           | [Feedler.com](https://feedler-rss.herokuapp.com/) |
+| Clickr               | Clone of Flickr                                                                                        | [Github Repo](https://github.com/Concrete18/Clickr-clone-of-Flickr) | [Clickr.com](https://click-r.herokuapp.com/)      |
+| EasierExcel          | EasierExcel allows for an easy way to get and update cell values within Excel sheets.                  | [Github Repo](https://github.com/Concrete18/easierexcel)            | [PyPI](https://pypi.org/project/easierexcel/)     |
+| Game Save Manager    | Tkinter Interface for running through an SQLite Database that allows backing up game saves easily      | [Github Repo](https://github.com/Concrete18/Game-Save-Manager)      | N/A                                               |
+| Game Library Tracker | Steam and Playstation Library Tracker allows keeping up with what you have played and want to play     | [Github Repo](https://github.com/Concrete18/Game-Library-Tracker)   | N/A                                               |
+| Auto Folder Cleaner  | This script searches a watched directory in order to move files based on their filetypes and keywords. | [Github Repo](https://github.com/Concrete18/Auto-Folder-Cleaner)    | N/A                                               |
