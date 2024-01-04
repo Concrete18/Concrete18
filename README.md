@@ -58,9 +58,10 @@ I am very interested in computer science, programming, Linux, and Windows. I fir
 
 ## Coding Languages
 
-### JavaScript (Full Stack)
+### JavaScript/TypeScript (Full Stack)
 
-I am working my way through the online App Academy Coding Bootcamp. I have created a solo and group full stack js project with deadlines and standups for each.
+I learned Javascript online through the App Academy Coding Bootcamp. I created solo and group full stack js projects with deadlines and standups for each.
+For one year, I employed JS/TS as my primary language while working at ClaraPrice, and I utilized Bitbucket for version control instead of Github.
 
 ### Python
 
@@ -68,7 +69,7 @@ I fully started learning Python in March 2020. It has been my major focus and is
 
 ### Rust
 
-I am currently learning Rust and have learned useful ways to speed up Python with it.
+I am currently learning Rust and have learned useful ways to speed up Python with it using Maturin to run Rust code.
 
 ### AHK
 
@@ -87,3 +88,7 @@ I began learning AHK for speeding up common tasks that were often completed in a
 | Game Save Manager    | Tkinter Interface for running through an SQLite Database that allows backing up game saves easily      | [Github Repo](https://github.com/Concrete18/Game-Save-Manager)      | N/A                                               |
 | Game Library Tracker | Steam and Playstation Library Tracker allows keeping up with what you have played and want to play     | [Github Repo](https://github.com/Concrete18/Game-Library-Tracker)   | N/A                                               |
 | Auto Folder Cleaner  | This script searches a watched directory in order to move files based on their filetypes and keywords. | [Github Repo](https://github.com/Concrete18/Auto-Folder-Cleaner)    | N/A                                               |
+
+## Note
+
+My time at ClaraPrice was using Bitbucket so my commits are not on github.
