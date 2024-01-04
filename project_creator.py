@@ -29,7 +29,7 @@ def create_project_buttons(username, projects, format="Markdown") -> None:
         print("\nREADME Stat buttons are working.")
     # creates the text file with the selected format
     broken_links = []
-    with open("project_buttons.md", "w") as f:
+    with open("templates/project_buttons.md", "w") as f:
         # sets up the buttons using HTML
         if format == "html":
             f.write('<p align="center">\n')
