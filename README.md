@@ -91,4 +91,4 @@ I began learning AHK for speeding up common tasks that were often completed in a
 
 ## Note
 
-My time at ClaraPrice was using Bitbucket so my commits are not on github.
+My time at ClaraPrice was using Bitbucket so my commits are not on Github.
